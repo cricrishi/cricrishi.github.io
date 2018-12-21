@@ -33,30 +33,30 @@ skills:
 
 #Work experience is required
 roles:
- - title: Senior Senior Engineer
-   start: JAN 2018
+ - title: Senior Software Engineer
+   start: Jan 2018
    end: Ongoing
    employer: Tokopedia
    description: Tokopedia is the biggest ecommorce marketplace and fintech player in the indonesia. While working there i have been working the most critical system of the money and i have developed platform for Gold, Invenstemnt product(Mutualfund),Merchant Load Products, Tokocash(E-Wallet).
  - title: Software Engineer
-   start: DEC 2016
-   end: DEC 2017
+   start: Dec 2016
+   end: Dec 2017
    employer: Infoedge India Pvt. Ltd.(Naukri.com)
    description: Naukri is the biggest platform for indian job seekers and recruiter as well. <br> While working there is have worked on some of the key and important project of the organization like JOB Posting, Referral Recruit.  
  - title: SDE-I
    start: July 2015
-   end: DEC 2016
+   end: Dec 2016
    employer: Tolexo
    description: Tolexo is a online market place for the B2B plateform.<br> I worked as a software developer there to build the backend system of the customer care dashboard. While working there i have developed many important module of ecommoerce platform like shipping, pincode servicibility, Access control system and OMS.
 
 #Education is required
 education:
  - level: Master of Technology (M.Tech.)
-   date: 2003
-   Subject: Computer Science
+   date: 2010-2015
+   subject: Computer Science
    school: Jaypee Institute of information technology Noida
  
  - level: Bachelor of Technology (B.Tech.)
    date: 2010-2015
-   Subject: Computer Science
+   subject: Computer Science
    school: Jaypee Institute of information technology Noida
